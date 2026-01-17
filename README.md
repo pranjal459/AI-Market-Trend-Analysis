@@ -45,3 +45,7 @@ jupyter notebook
 3. View results and visualizations
 
 ## Project Structure
+AI-Market-Trend-Analysis/
+├── market_trend_analysis.ipynb  # Main notebook
+├── README.md                      # This file
+└── data/                          # Dataset (if included)
